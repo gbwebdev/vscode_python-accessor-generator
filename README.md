@@ -6,7 +6,7 @@ This extension aims at facilitating object-oriented programming in Python by aut
 
 ### Accessors generation from attributes definition
 
-\!\[feature X\]\(images/accessors-generation-from-attributes-def.gif\)
+![feature X](https://github.com/gbwebdev/vscode_python-accessor-generator/blob/main/images/accessors-generation-from-attributes-def.gif?raw=true)
 
 You need to have attributes definition like these :
 
