@@ -2,10 +2,10 @@
   "name": "python-accessor-generator",
   "displayName": "Python Accessors Generator",
   "description": "An extension to generate python accessors automatically.",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "publisher": "GBwebdev",
   "repository": "https://github.com/gbwebdev/vscode_python-accessor-generator",
-  "logo": "https://github.com/gbwebdev/vscode_python-accessor-generator/blob/main/images/logo.png?raw=true",
+  "icon": "./images/logo.png",
   "engines": {
     "vscode": "^1.89.0"
   },
