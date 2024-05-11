@@ -2,6 +2,7 @@
 
 This extension aims at facilitating object-oriented programming in Python by automatically generating "property-type" accessors from a class's attributes definition. 
 
+Available on [the marketplace](https://marketplace.visualstudio.com/items?itemName=GBwebdev.python-accessor-generator).
 ## Features
 
 ### Accessors generation from attributes definition
